@@ -24,6 +24,7 @@ int main()
 	{
 	    printf("\n value found at position%d",i+1);
 	    f=1;
+            break;
 
 	}
 	else
